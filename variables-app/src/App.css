@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.table{
+  border: 2px solid green;
+  border-collapse: collapse;
+  margin: 10px;
+width: 50%;
+}
+.tr,td,th{
+  border: 2px solid deeppink;
+}
+
+.caption{
+  background-color: deepskyblue;
+  color: white;
+}
